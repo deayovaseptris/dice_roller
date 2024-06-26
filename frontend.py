@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # URL of the Flask backend
-backend_url = "http://909c-103-82-14-56/roll"
+backend_url = "http://127.0.0.1:4040/roll"
 
 st.title("Dice Roller")
 
